@@ -1,0 +1,55 @@
+127.0.0.1	localhost
+127.0.1.1	ml-ehsn
+
+40.81.179.228　shop.eckare.com
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+192.168.18.49 elkline.etzone.net
+# Happy-Shopping
+20.187.88.89 hs-web-lab
+20.239.81.155 hs-web-lab2 www94.happy-shopping.tw m94.happy-shopping.tw crm94.happy-shopping.tw
+20.205.0.242 hs-web
+23.101.8.97 traceit.ehsn.com.tw hs-monitor 
+104.208.86.59 hs2-lab
+13.75.45.19 hs-monitor # port 2222
+52.246.137.158 www3.happy-shopping.tw crm3.happy-shopping.tw
+20.24.224.224 www4.happy-shopping.tw www-php74
+
+
+#20.205.0.242 www.happy-shopping.tw happy-shopping.tw
+#Local
+192.168.17.80 ml-ehsn3
+192.168.18.49 ml-ehsn
+
+# ECKare
+52.175.145.201 euddb-m1
+138.91.28.157  euddb-s1
+20.78.144.123  euddb-t2 
+40.74.67.14    euddb-t3
+52.175.137.95 eckare-db-rev
+20.78.168.224 euddb-c1
+20.89.229.67 euddb-s2
+#20.210.142.208 shop2.eckare.com api2.eckare.com moments2.eckare.com
+#40.81.176.244 shop.eckare.com api.eckare.com moments.eckare.com
+
+#OB
+168.63.211.168 ob-dockerhost #art.etmall.com # go4fun.etmall.com #vip.etmall.com
+65.52.179.163 ob-art
+# TEST
+#192.168.122.56 www.mamabear.com.tw
+#104.208.122.172 www-test.mamabear.com.tw m-test.mamabear.com.tw
+#13.75.34.175 www.mamabear.com.tw m.mamabear.com.tw
+#13.75.34.175 m-test.mamabear.com.tw www-test.mamabear.com.tw
+#104.208.122.172  m-test.mamabear.com.tw www-test.mamabear.com.tw
+#104.208.122.172  test.mamabear.com.tw
+#
+#Moodle
+13.75.108.104 moodle moodle-ehsn
+
+# Sotaotech
+220.228.163.136 vc65.sotaotech.com
+
